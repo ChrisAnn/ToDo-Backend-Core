@@ -1,1 +1,1 @@
-# ToDo-Backend-Core
+# ToDo-Backend-Core [![Build Status](https://travis-ci.org/ChrisAnn/ToDo-Backend-Core.svg?branch=master)](https://travis-ci.org/ChrisAnn/ToDo-Backend-Core)
