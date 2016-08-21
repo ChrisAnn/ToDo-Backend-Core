@@ -9,5 +9,6 @@ before_install:
   - sudo apt-get install dotnet-dev-1.0.0-preview2-003121
 
 script:
-  - dotnet restore
-  - dotnet build
+  - dotnet restore src/Todo-Backend/
+  - dotnet build src/Todo-Backend/
+  - dotnet publish src/Todo-Backend/
