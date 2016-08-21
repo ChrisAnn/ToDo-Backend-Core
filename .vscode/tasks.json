@@ -8,9 +8,9 @@
     "tasks": [
         {
             "taskName": "build",
-            "args": [ ],
+            "args": [ "${workspaceRoot}/src/Todo-Backend/" ],
             "isBuildCommand": true,
-            "showOutput": "silent",
+            "showOutput": "always",
             "problemMatcher": "$msCompile"
         }
     ]
